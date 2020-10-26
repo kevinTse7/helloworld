@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T11:14:29.554Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="XMK2bNuTi5XY-xPYeklb" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-26T11:24:32.338Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="gDIsKWg7I1EQmL9vF4Rv" version="13.8.2" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="2031" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="474" dy="265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
         <mxCell id="zHvgbfHICLHNkz7faP3C-34" value="/platform/lfpcommon/ethernetprotocols/p3.c" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="30" width="270" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zHvgbfHICLHNkz7faP3C-35" value="/platform/lfpcommon/ethernetprotocols/p3.c" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zHvgbfHICLHNkz7faP3C-35" value="/fixtureConfig/fixtureP3TestPatternConfig.c" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1020" y="30" width="270" height="20" as="geometry" />
         </mxCell>
       </root>
